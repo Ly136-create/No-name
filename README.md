@@ -18,3 +18,11 @@ normal text
 - [x] Task 2
 - [ ] Task 3
 - [ ] Task 4
+
+## Table
+|id | name | age | status |
+|--- | ----- | ----- | ------- |
+|01 | myname | 89 | True |
+|01 | myname | 89 | True |
+|01 | myname | 89 | True |
+|01 | myname | 89 | True |
