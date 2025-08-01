@@ -22,7 +22,7 @@ normal text
 ## Table
 |id | name | age | status |
 |--- | ----- | ----- | ------- |
-|01 | myname | 89 | True |
-|01 | myname | 89 | True |
-|01 | myname | 89 | True |
-|01 | myname | 89 | True |
+|01 | my name | 97 | True |
+|02 | your name | 79 | True |
+|03 | your name | 86 | True |
+|04 | my name | 90 | True |
