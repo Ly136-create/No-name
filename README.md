@@ -49,3 +49,33 @@ normal text
         - list
         - list
 2. List 2
+
+## Image
+![alt text](nasa.png)
+
+### images 
+![Dashboard](dashboard.png)
+
+## Link
+CSS Framework [Bootstrap](https://unsplash.com/s/photos/earth)
+
+## Single Line code
+` print("Hello Worl")`
+
+```python
+for i in range(10):
+    print(i)
+```
+
+```html
+<h1>Hello World</h1>
+```
+
+```bash
+npm i express
+pip install cv2
+composer install
+```
+
+## Button
+<a href="https://www.tinkercad.com/dashboard" target="_blank">Clik Me</a>
